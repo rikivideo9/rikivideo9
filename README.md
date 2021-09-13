@@ -8,7 +8,7 @@
 
 | [![](https://github-readme-stats.vercel.app/api?username=rikivideo9&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/rikivideo9) | [![](https://github-readme-stats.vercel.app/api/pin?username=LSS-Manager&repo=LSSM-V.4&theme=dark&show_owner=true)](https://github.com/LSS-Manager/LSSM-V.4) | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
-|                                                              |           Voluntary Help with Italian Translations           |
+|                                                              |           Voluntary Help with Italian Translations and Fixes          |
 
 <!---
 rikivideo9/rikivideo9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
