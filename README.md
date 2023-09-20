@@ -1,3 +1,5 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=rikivideo9&label=VISITORS&labelColor=%230066ff&countColor=%23555555)
+
 - 👋 Hi, I’m Riccardo Tocchetto AKA @rikivideo9
 - 👀 I’m interested in IT, Machine Learning, Web Development
 - 🌱 I’m currently graduating in Computer Science at the University of Udine
